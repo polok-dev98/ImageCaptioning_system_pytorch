@@ -5,7 +5,6 @@ This repository contains an image captioning project that generates descriptive 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
@@ -22,18 +21,6 @@ Image captioning is a challenging task that involves generating a textual descri
 - **Caption generation**: Implements RNNs (LSTM/GRU) to generate sequences of words describing the images.
 - **Beam Search**: Implements beam search to improve the quality of generated captions.
 - **Training and evaluation scripts**: Includes scripts to train the model and evaluate its performance on a test set.
-
-## Installation
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/image-captioning.git
-    cd image-captioning
-    ```
-
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 
 ## Dataset
