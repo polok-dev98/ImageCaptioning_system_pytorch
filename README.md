@@ -1,6 +1,6 @@
 # Image Captioning Project
 
-This repository contains an image captioning project that generates descriptive captions for images using deep learning techniques. The project leverages Encoder: A pre-trained CNN (VGG19) that extracts features from images. and Decoder: LSTM that generates captions based on the extracted features.
+This repository contains an image captioning project that generates descriptive captions for images using deep learning techniques. The project leverages Encoder: A pre-trained CNN (ResNet101) that extracts features from images. and Decoder: LSTM that generates captions based on the extracted features.
 
 ## Table of Contents
 - [Introduction](#introduction)
